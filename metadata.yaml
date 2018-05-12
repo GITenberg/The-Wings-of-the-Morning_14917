@@ -14,6 +14,8 @@ creator:
     wikipedia: http://en.wikipedia.org/wiki/Louis_Tracy
 description: Story of a group of shipwrecked English passengers and crew who find
   a mine on the island.
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/14917#The-Wings-of-the-Morning
 gutenberg_issued: '2005-02-06'
 gutenberg_type: Text
 identifiers:
